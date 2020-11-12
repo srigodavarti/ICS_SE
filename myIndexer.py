@@ -1,8 +1,3 @@
-'''
-Soumya Sharma - 16463723
-Srilakshmi Godavarti - 82584732
-Jae Kim - 59572523
-'''
 import mmap
 import re
 import os
